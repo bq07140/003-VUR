@@ -1,0 +1,1935 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2023 18:27:00] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2023 18:27:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [20/Nov/2023 18:28:08] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2023 15:01:11] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2023 16:15:28] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2023 16:16:58] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2023 16:17:10] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2023 17:22:02] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2023 17:23:56] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2023 17:24:06] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 09:54:24] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 09:54:32] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 09:54:47] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 09:54:57] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 09:57:14] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 09:57:27] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 09:57:44] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 09:58:53] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 09:59:57] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 10:00:06] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 10:00:06] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 10:00:06] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 10:00:06] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 10:00:11] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 10:00:23] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 10:00:44] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 10:03:37] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 10:04:15] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 10:04:15] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 10:04:26] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 10:05:00] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 10:05:13] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 10:06:39] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 10:07:03] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 10:07:19] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 10:09:58] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 10:10:45] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 10:10:55] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 10:12:27] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 10:12:47] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 10:14:06] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\005-kafka-DTS\\ÍõÓÑ¹â02\\ÍõÓÑ¹â002.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\005-kafka-DTS\\ÍõÓÑ¹â\\ÍõÓÑ¹â.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\005-kafka-DTS\\ÍõÓÑ¹â\\ÍõÓÑ¹â.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\005-kafka-DTS\\ÍõÓÑ¹â\\ÍõÓÑ¹â.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\005-kafka-DTS\\ÍõÓÑ¹â\\ÍõÓÑ¹â.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\005-kafka-DTS\\ÍõÓÑ¹â02\\ÍõÓÑ¹â002.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\123.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\123.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\005-kafka-DTS\\twg-dts\\consumer001.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\005-kafka-DTS\\twg-dts\\consumer002.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 09:25:38] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 13:48:32] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 13:48:32] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 13:48:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 17:01:25] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 17:07:36] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 17:07:50] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 17:08:41] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 17:10:31] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 17:10:48] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 17:10:59] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 17:11:08] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 17:11:17] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 17:13:22] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 17:23:40] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 17:23:47] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 17:23:53] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 17:23:59] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 17:24:11] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 17:24:18] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 18:55:32] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 18:55:42] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 18:55:50] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 18:55:57] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 18:56:12] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 18:57:02] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 18:57:10] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 18:57:16] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 18:58:02] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 18:58:09] "GET /vdaa_gdc?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+ERROR:root:'PersistentDB' object has no attribute 'size'
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 15:28:47] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 15:30:30] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 15:30:38] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 15:30:44] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 15:30:50] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 15:30:58] "GET /vdaa_gdc?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000052 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9092
+ * Running on http://10.39.20.163:9092
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:11:31] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:11:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:11:38] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\004-docker-compose\\write_to_kafka.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 15:18:22] "GET /produce_one_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=battery_temp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 15:44:13] "GET /produce_one_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=battery_temp HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:58:06] "GET /produce_one_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=battery_temp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 09:58:11] "GET /produce_one_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=battery_temp HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 10:10:01] "GET /produce_one_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=battery_temp HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 10:10:53] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=battery_temp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 10:10:59] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=battery_temp HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.65.203:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+ERROR:root:NoBrokersAvailable
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 11:02:41] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=acc_activate_cnt HTTP/1.1" 200 -
+ERROR:root:NoBrokersAvailable
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 11:02:46] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=acc_activate_cnt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\004-docker-compose\\write_to_kafka.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 11:04:08] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=acc_activate_cnt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 11:04:09] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=acc_activate_cnt HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 11:05:21] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=acc_activate_cnt HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 11:05:40] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=acc_activate_cnt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 11:06:06] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=acc_activate_cnt HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 11:06:20] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=acc_activate_cnt HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 11:07:28] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=acc_activate_cnt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 11:23:08] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=charging_cnt HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.17.221:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 11:23:37] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=charging_cnt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 11:24:18] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=acc_activate_cnt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\123.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.17.221:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.17.221:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.17.221:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.17.221:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.17.221:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 11:47:29] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=low_charging HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\123.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.17.221:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.17.221:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.17.221:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 11:56:44] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=high_charging HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.17.221:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 11:58:43] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=low_charging HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.17.221:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 11:59:13] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=low_charging HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.17.221:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 11:59:56] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=low_charging HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 12:00:08] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=high_charging HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\123.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 15:58:13] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=low_charging HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 16:04:08] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=low_charging HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\123.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\123.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\123.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\123.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\123.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\123.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\001-kafka-mock\\vur_mock_v3.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 16:46:28] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=mileage&day_id=2023-12-06 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 16:47:03] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=mileage&day_id=2023-12-06 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\123.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [06/Dec/2023 16:47:28] "GET /send_dbr_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=mileage HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\123.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\123.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\002-databricks_api\\response_aggr_dbr_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 09:45:04] "GET /produce_one_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=battery_temp&flag=0 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 09:49:02] "GET /produce_one_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=battery_temp&flag=0 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 09:50:05] "GET /produce_one_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=battery_temp&flag=0 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 09:50:32] "GET /produce_one_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=battery_temp&flag=0 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 09:50:38] "GET /produce_one_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=battery_temp&flag=0 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 09:51:33] "GET /produce_one_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=battery_temp&flag=0 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\14-°ÂµÏ¹¤×÷\\003-VUR-DPL\\123.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 09:52:19] "GET /produce_one_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=battery_temp&flag=0 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 09:52:20] "GET /produce_one_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=battery_temp&flag=0 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 09:52:21] "GET /produce_one_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=battery_temp&flag=0 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 09:52:22] "GET /produce_one_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=battery_temp&flag=0 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 09:52:23] "GET /produce_one_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=battery_temp&flag=0 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 09:52:23] "GET /produce_one_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=battery_temp&flag=0 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 09:52:24] "GET /produce_one_mock_data?userId=393b4915-8a1a-43c9-a5e1-2710057fdf8b&vin=b9487cfbc0c74499a970d5d08d2878c1&messageId=battery_temp&flag=0 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 10:41:04] "GET /vdaa_gdc?vin=b9487cfbc0c74499a970d5d08d2878c1 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 11:17:43] "GET /vdaa_gdc?vin=LAVTDMERZAA000051 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 11:18:12] "GET /vdaa_gdc?vin=LAVTDMERZAA000051 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 11:18:57] "GET /vdaa_gdc?vin=LAVTDMERZAA000051 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 11:24:28] "GET /produce_one_mock_data?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000051&messageId=battery_temp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 11:24:31] "GET /produce_one_mock_data?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000051&messageId=battery_temp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 11:24:32] "GET /produce_one_mock_data?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000051&messageId=battery_temp HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 11:26:25] "GET /produce_one_mock_data?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000051&messageId=battery_temp HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.163:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 11:27:07] "GET /produce_one_mock_data?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000051&messageId=battery_temp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 11:27:08] "GET /produce_one_mock_data?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000051&messageId=battery_temp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 11:27:09] "GET /produce_one_mock_data?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000051&messageId=battery_temp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 11:27:10] "GET /produce_one_mock_data?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000051&messageId=battery_temp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Dec/2023 11:27:11] "GET /produce_one_mock_data?userId=37fe60ed-a381-4636-ad20-21fc1fb37b09&vin=LAVTDMERZAA000051&messageId=battery_temp HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.39.20.37:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9092
+ * Running on http://192.168.251.221:9092
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 125-491-795
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9092
+ * Running on http://192.168.251.221:9092
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9092
+ * Running on http://192.168.251.221:9092
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9092
+ * Running on http://192.168.251.221:9092
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9092
+ * Running on http://192.168.251.221:9092
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9092
+ * Running on http://192.168.251.221:9092
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9092
+ * Running on http://192.168.251.221:9092
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9092
+ * Running on http://192.168.251.221:9092
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
