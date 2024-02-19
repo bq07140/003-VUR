@@ -70,6 +70,7 @@ def vdaa_gdc():
             databricks = QueryDatabricks()
             ret = databricks.vdaa_gdc(vin)
             response['data']['warningLights'] = ret
+            databricks.close_db()  # 关闭连接
         except Exception as e:
             logging.error(str(e))
             response['code'] = 500

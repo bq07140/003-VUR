@@ -31,7 +31,8 @@ class QueryDatabricks(object):
         # self.vdaa_gdc_v2_table = "hive_metastore.default.vdaa_gdc_v2"
         self.vdaa_gdc_v2_table = "hive_metastore.default.vdaa_gdc_v2_read"
 
-    def __del__(self):
+    # def __del__(self):
+    def close_db(self):
         self.cursor.close()
         self.conn.close()
 

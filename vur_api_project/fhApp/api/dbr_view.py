@@ -23,7 +23,7 @@ def aggr_dbr_monthly():
             databricks = QueryDatabricks()
             ret = databricks.aggr_dbr_monthly(month_start, month_end)
             response['data'] = ret
-
+            databricks.close_db()  # 关闭连接
         except Exception as e:
             logging.error(str(e))
             response['code'] = 500
@@ -56,7 +56,7 @@ def aggr_dbr_daily():
             databricks = QueryDatabricks()
             ret = databricks.aggr_dbr_daily(day_start, day_end)
             response['data'] = ret
-
+            databricks.close_db()  # 关闭连接
         except Exception as e:
             logging.error(str(e))
             response['code'] = 500
