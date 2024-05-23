@@ -1,0 +1,177 @@
+以下是每个接口的中文翻译：
+/vehicles/{vin}/access/status：车辆访问状态
+/vehicles/{vin}/access/lock：车辆访问锁定
+/vehicles/{vin}/access/lockwithoutspin：无旋转锁定车辆访问
+/vehicles/{vin}/access/unlock：车辆访问解锁
+/vehicles/{vin}/access/unlockwithoutspin：无旋转解锁车辆访问
+/vehicles/{vin}/access/requests/{requestID}：车辆访问请求
+
+/vehicles/{vin}/alerts/geofence：车辆地理围栏警报
+/vehicles/{vin}/alerts/geofence/{id}：车辆地理围栏警报 ID
+/vehicles/{vin}/alerts/geofence/requests/{id}：车辆地理围栏警报请求 ID
+/vehicles/{vin}/alerts/speed：车辆超速警报
+/vehicles/{vin}/alerts/speed/{id}：车辆超速警报 ID
+/vehicles/{vin}/alerts/speed/requests/{id}：车辆超速警报请求 ID
+/vehicles/{vin}/alerts/valet：车辆代客警报
+/vehicles/{vin}/alerts/valet/{id}：车辆代客警报 ID
+/vehicles/{vin}/alerts/valet/requests/{id}：车辆代客警报请求 ID
+
+/vehicles/{vin}/breakdownreport：车辆故障报告
+/vehicles/{vin}/breakdownreport/update：车辆故障报告更新
+/vehicles/{vin}/breakdown/destination：车辆故障目的地
+
+/msisdns/{msisdn}/breakdownreport：移动用户识别码故障报告
+/vehicles/{vin}/capabilities：车辆功能
+/vehicles/{vin}/usercapabilities：车辆用户功能
+/vehicles/{vin}/usercapabilities/requests/{requestID}：车辆用户功能请求
+
+/vehicles/{vin}/charging/statistics/history：车辆充电统计历史
+/vehicles/{vin}/charging/status：车辆充电状态
+/vehicles/{vin}/charging/settings：车辆充电设置
+/vehicles/{vin}/charging/settings/bidirectional：车辆双向充电设置
+/vehicles/{vin}/charging/care/settings：车辆充电关怀设置
+/vehicles/{vin}/charging/care/status：车辆充电关怀状态
+/vehicles/{vin}/charging/mode：车辆充电模式
+/vehicles/{vin}/charging/start：车辆充电开始
+/vehicles/{vin}/charging/stop：车辆充电停止
+/vehicles/{vin}/charging/requests/{requestID}：车辆充电请求
+/vehicles/{vin}/charging/profiles：车辆充电配置文件
+/vehicles/{vin}/charging/profiles/{id}：车辆充电配置文件 ID
+/vehicles/{vin}/charging/timers：车辆充电定时器
+/vehicles/{vin}/charging/timers/{id}：车辆充电定时器 ID
+
+/vehicles/{vin}/climatisation/status：车辆气候控制状态
+/vehicles/{vin}/climatisation/settings：车辆气候控制设置
+/vehicles/{vin}/climatisation/start：车辆气候控制开始
+/vehicles/{vin}/climatisation/stop：车辆气候控制停止
+/vehicles/{vin}/climatisation/requests/{requestID}：车辆气候控制请求
+/vehicles/{vin}/windowheating/start：车辆车窗加热开始
+/vehicles/{vin}/windowheating/stop：车辆车窗加热停止
+/vehicles/{vin}/windowheating/requests/{requestID}：车辆车窗加热请求
+/vehicles/{vin}/climatisation/timers：车辆气候控制定时器
+/vehicles/{vin}/climatisation/timers/{id}：车辆气候控制定时器 ID
+
+/vehicles/{vin}/auxiliaryheating/timers：车辆辅助加热定时器
+/vehicles/{vin}/auxiliaryheating/timerswithoutspin：无旋转辅助加热定时器
+/vehicles/{vin}/activeventilation/timers：车辆主动通风定时器
+/vehicles/{vin}/auxiliaryheating/start：车辆辅助加热开始
+/vehicles/{vin}/auxiliaryheating/startwithoutspin：无旋转辅助加热开始
+/vehicles/{vin}/auxiliaryheating/stop：车辆辅助加热停止
+/vehicles/{vin}/auxiliaryheating/requests/{requestID}：车辆辅助加热请求
+/vehicles/{vin}/activeventilation/start：车辆主动通风开始
+/vehicles/{vin}/activeventilation/stop：车辆主动通风停止
+/vehicles/{vin}/activeventilation/requests/{requestID}：车辆主动通风请求
+
+/vehicles/{vin}/departure/timers：车辆离开定时器
+/vehicles/{vin}/departure/plugreminder：车辆插头提醒
+/vehicles/{vin}/departure/profiles：车辆离开配置文件
+/vehicles/{vin}/departure/profiles/{id}：车辆离开配置文件 ID
+/vehicles/{vin}/departure/auxiliaryheatingtimers：车辆离开辅助加热定时器
+/vehicles/{vin}/departure/requests/{requestID}：车辆离开请求
+/vehicles/{vin}/departure/timers/settings：车辆离开定时器设置
+
+/vehicles/{vin}/destinations：车辆目的地
+/vehicles/{vin}/destinations/{id}：车辆目的地 ID
+/vehicles/{vin}/destinations/tours：车辆目的地旅行
+
+/vehicles/{vin}/engine/start：车辆发动机启动
+/vehicles/{vin}/engine/stop：车辆发动机停止
+/vehicles/{vin}/engine/requests/{requestID}：车辆发动机请求
+/vehicles/{vin}/engine/history：车辆发动机历史
+/vehicles/{vin}/engine/status：车辆发动机状态
+
+/vehicles/{vin}/fuel/status：车辆燃料状态
+/vehicles/{vin}/honkandflash：车辆喇叭和闪光灯
+/vehicles/{vin}/honkandflash/requests/{requestID}：车辆喇叭和闪光灯请求
+/vehicles/{vin}/measurements：车辆测量
+
+/vehicles/{vin}/mobilekeys/status：车辆移动钥匙状态
+/vehicles/{vin}/mobilekeys/keys：车辆移动钥匙
+/vehicles/{vin}/permissions/{id}：车辆权限 ID
+/vehicles/{vin}/trusteddevices/{id}：车辆信任设备 ID
+
+/vehicles/{vin}/mobiledevice/status：车辆移动设备状态
+/vehicles/{vin}/mobiledevice/start：车辆移动设备启动
+/vehicles/{vin}/mobiledevice/pair：车辆移动设备配对
+/vehicles/{vin}/mobiledevice/unpair：车辆移动设备取消配对
+/vehicles/{vin}/mobiledevicekeys/pairing/password：车辆移动设备钥匙配对密码
+/vehicles/{vin}/mobiledevicekeys/pairing/status：车辆移动设备钥匙配对状态
+/vehicles/{vin}/mobiledevicekeys/activationstatus：车辆移动设备钥匙激活状态
+/vehicles/{vin}/mobiledevicekeys/servicecard/status：车辆移动设备钥匙服务卡状态
+/vehicles/{vin}/mobiledevicekeys/pairing/unpair：车辆移动设备钥匙配对取消配对
+/vehicles/{vin}/mobiledevicekeys/servicecard/deactivate：车辆移动设备钥匙服务卡停用
+/vehicles/{vin}/mobiledevicekeys/identifier：车辆移动设备钥匙标识符
+
+/vehicles/{vin}/newsfeeds：车辆新闻提要
+/vehicles/{vin}/newsfeeds/{id}：车辆新闻提要 ID
+
+/vehicles/{vin}/subscriptions：车辆订阅
+/vehicles/{vin}/subscriptions/settings：车辆订阅设置
+/notifications：通知
+
+/vehicles/{vin}/parkingposition：车辆停车位置
+/vehicles/{vin}/personalization：车辆个性化
+/user/personalization：用户个性化
+
+/vehicles/{vin}/plugandcharge/status：车辆即插即充状态
+/vehicles/{vin}/plugandcharge/status/contract：车辆即插即充合同状态
+/vehicles/{vin}/plugandcharge/install：车辆即插即充安装
+/vehicles/{vin}/plugandcharge/update：车辆即插即充更新
+/vehicles/{vin}/plugandcharge/uninstall：车辆即插即充卸载
+/vehicles/{vin}/plugandcharge/requests/{requestID}：车辆即插即充请求
+/vehicles/{vin}/plugandcharge/activate：车辆即插即充激活
+/vehicles/{vin}/plugandcharge/deactivate：车辆即插即充停用
+
+/vehicles/{vin}/readiness/batterysupport：车辆准备状态电池支持
+/vehicles/{vin}/readiness/batterysupport/requests/{requestID}：车辆准备状态电池支持请求
+/vehicles/{vin}/readiness/datasavingmode：车辆准备状态数据节能模式
+/vehicles/{vin}/readiness/status：车辆准备状态状态
+/vehicles/{vin}/readiness/infotainmentwakeup：车辆准备状态信息娱乐唤醒
+/vehicles/{vin}/readiness/infotainmentwakeup/cancel：车辆准备状态信息娱乐唤醒取消
+
+/vehicles/{vin}/transactionhistory：车辆交易历史
+/vehicles/{vin}/transactionhistory/last：车辆交易历史最后一次
+/vehicles/{vin}/transactionhistory/access：车辆交易历史访问
+/vehicles/{vin}/transactionhistory/antitheftalarm：车辆交易历史防盗警报
+/vehicles/{vin}/transactionhistory/digitalkey：车辆交易历史数字钥匙
+/vehicles/{vin}/transactionhistory/geofence：车辆交易历史地理围栏
+/vehicles/{vin}/transactionhistory/geofence/{id}：车辆交易历史地理围栏 ID
+/vehicles/{vin}/transactionhistory/honkflash：车辆交易历史喇叭和闪光灯
+/vehicles/{vin}/transactionhistory/speedalert：车辆交易历史超速警报
+/vehicles/{vin}/transactionhistory/speedalert/{id}：车辆交易历史超速警报 ID
+/vehicles/{vin}/transactionhistory/valet：车辆交易历史代客
+/vehicles/{vin}/transactionhistory/valet/{id}：车辆交易历史代客 ID
+
+/vehicles/{vin}/tripdata/shortterm/last：车辆短期行程数据最后一次
+/vehicles/{vin}/tripdata/shortterm：车辆短期行程数据
+/vehicles/{vin}/tripdata/shortterm/{id}：车辆短期行程数据 ID
+
+/vehicles/{vin}/tripdata/longterm/last：车辆长期行程数据最后一次
+/vehicles/{vin}/tripdata/longterm：车辆长期行程数据
+/vehicles/{vin}/tripdata/longterm/{id}：车辆长期行程数据 ID
+
+/vehicles/{vin}/tripdata/cyclic/last：车辆循环行程数据最后一次
+/vehicles/{vin}/tripdata/cyclic：车辆循环行程数据
+/vehicles/{vin}/tripdata/cyclic/{id}：车辆循环行程数据 ID
+
+/vehicles/{vin}/maintenance/status：车辆维护状态
+/vehicles/{vin}/predictivemaintenance/dealerappointment：车辆预测性维护经销商预约
+
+/vehicles/{vin}/warninglights：车辆警告灯
+/vehicles/{vin}/warninglights/{id}：车辆警告灯 ID
+/vehicles/{vin}/warninglights/last：车辆警告灯最后一次
+/vehicles/{vin}/warninglights/settings：车辆警告灯设置
+/vehicles/{vin}/warninglights/update：车辆警告灯更新
+
+/vehicles/{vin}/lights/status：车辆灯光状态
+/vehicles/{vin}/vehiclesoftware/status/last：车辆软件状态最后一次
+
+/vehicles/{vin}/states：车辆状态
+/vehicles/{vin}/status：车辆状态
+
+/vehicles/{vin}/vehiclewakeup：车辆唤醒
+/vehicles/{vin}/vehiclewakeup/requests/{id}：车辆唤醒请求 ID
+/vehicles/{vin}/vehiclewakeup/update：车辆唤醒更新
+
+
+

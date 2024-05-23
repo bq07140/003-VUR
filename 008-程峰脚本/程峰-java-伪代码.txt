@@ -1,0 +1,74 @@
+//    public void xxx() {
+//        //前一天的vinList
+//        List<String> vinList = new ArrayList<>();
+//        ResultDto<List<ActiveUserInfo>> listResultDto = dplController.activeUser(vinList);
+//        //
+//        Map<String, ActiveUserInfo> collect = new HashMap<>();
+//        if (listResultDto.getRespCode() == 0 && listResultDto.getData() != null) {
+//            List<ActiveUserInfo> data = listResultDto.getData();
+//            //todo "插入历史表 active_user_history data"
+//            collect = data.stream().collect(Collectors.toMap(ActiveUserInfo::getVin, t -> t));
+//        }
+//        for (String vin : vinList) {
+//            //todo "查询历史表 active_user_history select * from active_user_history where
+//            // vin = xxx and activeTime<当天第一分钟（例如2024-3-19 00:00:00）order by activeTime desc limit 1"
+//            History history = getHistory(vin);
+//            if (history != null) {
+//                //todo "插入历史表 active_user_history data"
+//                if (collect.containsKey(history.getVin())) {
+//                    ActiveUserInfo activeUserInfo = collect.get(history.getVin());
+//                    List<ActiveUserInfo.ActiveUser> activeUserList = activeUserInfo.getActiveUserList();
+//                    ActiveUserInfo.ActiveUser activeUser = new ActiveUserInfo.ActiveUser();
+//                    activeUser.setUserId(history.getUserId());
+//                    activeUser.setActiveTime(history.getActiveTime());
+//                    activeUserList.add(0, activeUser);
+//                } else {
+//                    ActiveUserInfo info = new ActiveUserInfo();
+//                    info.setVin(history.getVin());
+//                    ActiveUserInfo.ActiveUser activeUser = new ActiveUserInfo.ActiveUser();
+//                    activeUser.setUserId(history.getUserId());
+//                    activeUser.setActiveTime(history.getActiveTime());
+//                    ArrayList<ActiveUserInfo.ActiveUser> activeUsers = new ArrayList<>();
+//                    activeUsers.add(activeUser);
+//                    info.setActiveUserList(activeUsers);
+//                    collect.put(history.getVin(), info);
+//                }
+//            } else {
+//                ResultDto<List<PrimaryUser>> resultDto = dplController.primaryUser(Collections.singletonList(vin));
+//                if (resultDto.getRespCode() == 0 && resultDto.getData() != null) {
+//                    List<PrimaryUser> data = resultDto.getData();
+//                    if (data.size() > 0) {
+//                        PrimaryUser primaryUser = data.get(0);
+//                        String userId = primaryUser.getUserId();
+//                        //todo "插入历史表 active_user_history  activeTime=前一天第一分钟"
+//                        ActiveUserInfo info = new ActiveUserInfo();
+//                        info.setVin(vin);
+//                        ActiveUserInfo.ActiveUser activeUser = new ActiveUserInfo.ActiveUser();
+//                        activeUser.setUserId(userId);
+//                        activeUser.setActiveTime("2024-03-19 00:00");
+//                        ArrayList<ActiveUserInfo.ActiveUser> activeUsers = new ArrayList<>();
+//                        activeUsers.add(activeUser);
+//                        info.setActiveUserList(activeUsers);
+//                        collect.put(vin, info);
+//                    }
+//                }
+//            }
+//        }
+//        for (String vin : collect.keySet()) {
+//            ActiveUserInfo info = collect.get(vin);
+//            List<ActiveUserInfo.ActiveUser> activeUserList = info.getActiveUserList();
+//            for (int i = 0; i < activeUserList.size(); i++) {
+//                ActiveUserInfo.ActiveUser activeUser = activeUserList.get(i);
+//                String userId = activeUser.getUserId();
+//                String startTime = activeUser.getActiveTime();
+//                String endTime = startTime.substring(0, 10) + " 23:59";
+//                if (i + 1 < activeUserList.size()) {
+//                    ActiveUserInfo.ActiveUser nextActiveUser = activeUserList.get(i + 1);
+//                    endTime = nextActiveUser.getActiveTime();
+//                }
+//                //todo 更新ods表
+//                String s = "update ods set userId=" + userId + " where vin = " + vin + " " +
+//                        "and time >= " + startTime + " and time <" + endTime;
+//            }
+//        }
+//    }
